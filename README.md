@@ -2,6 +2,7 @@
 
 The code and results in our paper, if you use the data or code please cite our work
 
+```
 @inproceedings{Torres,CarmenVaca:2019:CPC:3308560.3316799,
  author = {Torres, Carmen Vaca, Johnny},
  title = {Cross-lingual Perspectives About Crisis-Related Conversations on Twitter},
@@ -19,3 +20,4 @@ The code and results in our paper, if you use the data or code please cite our w
  address = {New York, NY, USA},
  keywords = {NLP, Neural Networks, Social Computing},
 } 
+```
